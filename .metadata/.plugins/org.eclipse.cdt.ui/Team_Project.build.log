@@ -1,0 +1,13 @@
+19:25:01 **** Incremental Build of configuration TriCore Debug (TASKING) for project Team_Project ****
+amk -j16 all 
+TASKING VX-toolset for AURIX Development Studio (non-commercial): program builder v1.1r8 Build 22011964
+Invoking: Print Size
+elfsize  "Team_Project.elf"
+Total sizes:
+ROM: 0x7862 (30818) = code: 0x7394 (29588) + romdata: 0x4ce (1230)
+RAM: 0x9b71 (39793) = data + bss
+Finished building: Team_Project.siz
+ 
+
+19:25:02 Build Finished. 0 errors, 0 warnings. (took 569ms)
+

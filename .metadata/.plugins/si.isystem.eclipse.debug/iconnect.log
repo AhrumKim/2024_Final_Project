@@ -1,0 +1,18 @@
+450  INFO  [main] Log5J : ***  455.3803  ***  **********************************************************
+450  INFO  [main] Log5J : ***  456.0166  ***  Logger configuration successful. Configuration file used: 
+450  INFO  [main] Log5J : ***  456.1052  ***  C:\Infineon\AURIX-Studio-1.10.6\configuration\org.eclipse.osgi\362\0\.cp\lib\log4j.properties
+450  INFO  [main] Log5J : ***  456.1611  ***  **********************************************************
+452  INFO  [main] ISysPluginConfiguration : ***  457.4196  ***  Loading debug plugin properties from 'C:\Infineon\AURIX-Studio-1.10.6\isys_debugger_configuration.json'
+664  INFO  [main] ISysPluginConfiguration : ***  669.9696  ***  Loaded plugin configuration:
+	 - Enable embedded: false
+	 - Enable portable false
+	 - Default selection: Custom
+	 - Default install path: '\winIDEA'
+664  INFO  [main] ISystemPreferences : ***  670.2661  ***  State location loaded at C:\Users\rlaek\AURIX-v1.10.6-workspace\.metadata\.plugins\si.isystem.eclipse.debug
+665  INFO  [main] ISystemPreferences : ***  671.0165  ***  Preferences loaded: Install type: Custom, Custom path: '\winIDEA'
+674  INFO  [main] ISysDebugPlugin : ***  679.8024  ***  Starting Plugin si.isystem.eclipse.debug version 921.25900.179258.
+679  INFO  [main] ISysDebugPlugin : ***  685.2116  ***  Plugin si.isystem.eclipse.debug started.
+679  INFO  [main] ISysDebugPlugin : ***  685.4146  ***  winIDEA installation cancelled because embedded winIDEA is not allowed.
+679  INFO  [main] ISysDebugPlugin : ***  685.5587  ***  Plugin started: si.isystem.eclipse.debug
+1444492 INFO  [Framework stop - Equinox Container: 9276e5cc-0034-4034-a80b-bf13e777a95f] ISysDebugPlugin : ***  1444497.6175  ***  Stopping Plugin si.isystem.eclipse.debug
+1444502 INFO  [Framework stop - Equinox Container: 9276e5cc-0034-4034-a80b-bf13e777a95f] ISysDebugPlugin : ***  1444507.3297  ***  Plugin si.isystem.eclipse.debug stopped.
